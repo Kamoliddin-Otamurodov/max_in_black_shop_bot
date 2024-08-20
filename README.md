@@ -1,0 +1,1 @@
+# max_in_black_shop_bot
